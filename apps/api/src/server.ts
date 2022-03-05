@@ -3,6 +3,10 @@ import closeWithGrace from "close-with-grace";
 import * as dotenv from "dotenv";
 // Require the framework
 import Fastify from "fastify";
+import fp from "fastify-plugin";
+import { fastifyTRPCPlugin } from "@trpc/server/adapters/fastify";
+import { createContext } from "./context";
+import { appRouter } from "./router";
 
 // Read the .env file.
 dotenv.config();
@@ -11,6 +15,11 @@ dotenv.config();
 // eslint-disable-next-line new-cap
 const app = Fastify({
   logger: true,
+});
+
+void app.register(fp(fastifyTRPCPlugin), {
+  prefix: "/trpc",
+  trpcOptions: { router: appRouter, createContext },
 });
 
 // Register your application as a normal plugin.

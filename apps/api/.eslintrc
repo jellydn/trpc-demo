@@ -5,6 +5,6 @@
 		"prettier"
 	],
 	"parserOptions": {
-		"project": "./tsconfig.json"
+		"project": "./apps/api/tsconfig.json"
 	}
 }
