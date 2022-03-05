@@ -20,6 +20,12 @@
 - [Vite](https://vitejs.dev/): next Generation Frontend Tooling
 - [NextJs](https://nextjs.org/): the React Framework for Production
 
+## Why tRPC?
+
+It's neat, right? :)
+
+![https://storage.googleapis.com/trpc/trpcgif.gif](https://storage.googleapis.com/trpc/trpcgif.gif)
+
 ## Install
 
 ```sh
@@ -31,6 +37,10 @@ yarn install
 ```sh
 yarn dev
 ```
+
+### Screenshot
+
+![https://gyazo.com/b749863e76c6fde69bb88f22125b33ca.gif](https://gyazo.com/b749863e76c6fde69bb88f22125b33ca.gif)
 
 ## Run tests
 
