@@ -1,5 +1,5 @@
 {
-  "name": "web",
+  "name": "trpc-web",
   "version": "0.0.0",
   "private": true,
   "scripts": {
@@ -9,18 +9,18 @@
     "lint": "next lint"
   },
   "dependencies": {
-    "next": "12.0.8",
+    "next": "12.1.0",
     "react": "17.0.2",
     "react-dom": "17.0.2",
-    "ui": "*"
+    "@productsway/ui": "*"
   },
   "devDependencies": {
-    "config": "*",
-    "eslint": "7.32.0",
+    "@productsway/config": "*",
+    "eslint": "8.10.0",
     "next-transpile-modules": "9.0.0",
-    "tsconfig": "*",
-    "@types/node": "^17.0.12",
-    "@types/react": "17.0.37",
-    "typescript": "^4.5.3"
+    "@productsway/tsconfig": "*",
+    "@types/node": "^17.0.21",
+    "@types/react": "17.0.39",
+    "typescript": "^4.6.2"
   }
 }
