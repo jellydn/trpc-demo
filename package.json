@@ -1,6 +1,6 @@
 {
-  "name": "turborepo-basic-shared",
-  "version": "0.0.0",
+  "name": "trpc-demo",
+  "version": "0.0.1",
   "private": true,
   "workspaces": [
     "apps/*",
@@ -20,5 +20,5 @@
     "npm": ">=7.0.0",
     "node": ">=14.0.0"
   },
-  "packageManager": "npm@7.18.1"
+  "packageManager": "yarn@1.22.17"
 }
