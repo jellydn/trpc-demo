@@ -2,14 +2,18 @@
   "name": "trpc-react-app",
   "version": "0.0.1",
   "scripts": {
-    "dev": "vite --port 3001 --open",
+    "dev": "vite --port 3001",
     "build": "tsc && vite build",
     "lint": "eslint src/**/*.tsx --fix",
     "serve": "vite preview"
   },
   "dependencies": {
+    "@trpc/client": "^9.20.1",
+    "@trpc/react": "^9.20.1",
+    "@trpc/server": "^9.20.1",
     "react": "17.0.2",
-    "react-dom": "17.0.2"
+    "react-dom": "17.0.2",
+    "react-query": "^3.34.16"
   },
   "devDependencies": {
     "@types/react": "17.0.39",

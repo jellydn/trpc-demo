@@ -1,7 +1,23 @@
 import React from "react";
+import { useState } from "react";
+import { QueryClient, QueryClientProvider } from "react-query";
 
-function App() {
-  return <div className="App">Hello</div>;
+import Hello from "./Hello";
+import { trpc } from "./utils/trpc";
+
+export default function App() {
+  const [queryClient] = useState(() => new QueryClient());
+  const [trpcClient] = useState(() =>
+    trpc.createClient({
+      url: "http://localhost:3000/trpc",
+      headers: {},
+    })
+  );
+  return (
+    <trpc.Provider client={trpcClient} queryClient={queryClient}>
+      <QueryClientProvider client={queryClient}>
+        <Hello />
+      </QueryClientProvider>
+    </trpc.Provider>
+  );
 }
-
-export default App;
