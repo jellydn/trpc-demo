@@ -46,8 +46,6 @@
     "eslint-config-xo": "0.40.0",
     "eslint-config-xo-typescript": "0.50.0",
     "json-schema-to-typescript": "10.1.5",
-    "lint-staged": "12.3.5",
-    "prettier": "2.5.1",
     "tap": "15.2.2",
     "ts-node": "10.6.0",
     "ts-node-dev": "1.1.8",
