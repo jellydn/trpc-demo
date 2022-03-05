@@ -1,4 +1,15 @@
-import * as React from "react";
-export const Button = () => {
-  return <button>Boop</button>;
+import { MouseEventHandler } from "react";
+
+export const Button = ({
+  name,
+  onClick,
+}: {
+  name: string;
+  onClick: MouseEventHandler;
+}) => {
+  return (
+    <button type="button" onClick={onClick}>
+      {name}
+    </button>
+  );
 };
