@@ -12,6 +12,14 @@
 - npm >=7.0.0
 - node >=14.0.0
 
+## Features
+
+- [tRPC](https://trpc.io/): end-to-end typesafe APIs made easy
+- [Turborepo](https://turborepo.org/): high-performance build system for JavaScript and TypeScript codebases.
+- [Fastify](https://www.fastify.io/): fast and low overhead web framework, for Node.js
+- [Vite](https://vitejs.dev/): next Generation Frontend Tooling
+- [NextJs](https://nextjs.org/): the React Framework for Production
+
 ## Install
 
 ```sh
@@ -34,6 +42,7 @@ yarn test
 
 - `api`: a [fastify api](https://github.com/jellydn/fastify-starter) app
 - `web`: another [Next.js](https://nextjs.org) app
+- `react-app`: a [react](https://github.com/jellydn/new-web-app) app
 - `ui`: a stub React component library shared by both `web` and `docs` applications
 - `config`: `eslint` configurations (includes `eslint-config-next` and `eslint-config-prettier`)
 - `tsconfig`: `tsconfig.json`s used throughout the monorepo
