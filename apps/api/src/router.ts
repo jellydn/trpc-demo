@@ -11,6 +11,18 @@ const users: Record<string, User> = {};
 
 export const appRouter = trpc
   .router()
+  .query("hello", {
+    input: z
+      .object({
+        text: z.string().nullish(),
+      })
+      .nullish(),
+    resolve({ input }) {
+      return {
+        greeting: `hello ${input?.text ?? "world"}`,
+      };
+    },
+  })
   .query("getUserById", {
     input: z.string(),
     async resolve({ input }) {
