@@ -1,0 +1,26 @@
+{
+  "name": "trpc-react-app",
+  "version": "0.0.1",
+  "scripts": {
+    "dev": "vite --port 3001 --open",
+    "build": "tsc && vite build",
+    "lint": "eslint src/**/*.tsx --fix",
+    "serve": "vite preview"
+  },
+  "dependencies": {
+    "react": "17.0.2",
+    "react-dom": "17.0.2"
+  },
+  "devDependencies": {
+    "@types/react": "17.0.39",
+    "@types/react-dom": "17.0.13",
+    "@typescript-eslint/eslint-plugin": "5.13.0",
+    "@typescript-eslint/parser": "5.13.0",
+    "@vitejs/plugin-react-refresh": "1.3.6",
+    "cypress": "9.5.1",
+    "eslint": "8.10.0",
+    "eslint-config-productsway": "0.1.10",
+    "typescript": "4.6.2",
+    "vite": "2.8.6"
+  }
+}

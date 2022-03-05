@@ -25,7 +25,6 @@
   },
   "packageManager": "yarn@1.22.17",
   "lint-staged": {
-    "*.{js,jsx,ts,tsx}": "eslint --cache --fix",
     "*.{js,ts,tsx,,css,md}": "prettier --write"
   }
 }
