@@ -10,7 +10,7 @@
   },
   "dependencies": {
     "@productsway/ui": "*",
-    "@trpc/client": "9.20.1",
+    "@trpc/client": "9.20.3",
     "@trpc/next": "9.20.3",
     "@trpc/react": "9.20.3",
     "@trpc/server": "9.20.3",
