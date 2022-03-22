@@ -8,7 +8,7 @@
     "serve": "vite preview"
   },
   "dependencies": {
-    "@trpc/client": "9.20.1",
+    "@trpc/client": "9.20.3",
     "@trpc/react": "9.20.3",
     "@trpc/server": "9.20.3",
     "react": "17.0.2",
