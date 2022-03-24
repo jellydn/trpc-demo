@@ -5,7 +5,7 @@
   "types": "./index.tsx",
   "license": "MIT",
   "devDependencies": {
-    "@types/react": "17.0.42",
+    "@types/react": "17.0.43",
     "@types/react-dom": "17.0.14",
     "@productsway/tsconfig": "*",
     "@productsway/config": "*",
