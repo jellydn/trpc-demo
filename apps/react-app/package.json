@@ -13,7 +13,7 @@
     "@trpc/server": "9.22.0",
     "react": "18.0.0",
     "react-dom": "18.0.0",
-    "react-query": "3.34.19"
+    "react-query": "3.34.20"
   },
   "devDependencies": {
     "@types/qs": "6.9.7",
