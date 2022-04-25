@@ -18,7 +18,7 @@
     "@typescript-eslint/eslint-plugin": "5.20.0",
     "@typescript-eslint/parser": "5.20.0",
     "cross-env": "7.0.3",
-    "eslint": "8.13.0",
+    "eslint": "8.14.0",
     "husky": "7.0.4",
     "lint-staged": "12.3.8",
     "prettier": "2.6.2",
