@@ -9,7 +9,7 @@
   },
   "dependencies": {
     "@trpc/client": "9.23.0",
-    "@trpc/react": "9.22.0",
+    "@trpc/react": "9.23.0",
     "@trpc/server": "9.23.0",
     "react": "18.0.0",
     "react-dom": "18.0.0",
