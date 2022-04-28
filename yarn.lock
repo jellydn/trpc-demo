@@ -560,10 +560,10 @@
     "@babel/runtime" "^7.9.0"
     react-ssr-prepass "^1.5.0"
 
-"@trpc/react@9.23.1":
-  version "9.23.1"
-  resolved "https://registry.yarnpkg.com/@trpc/react/-/react-9.23.1.tgz#0837ee702a5bdb9654dc5fe32b81c402134a91aa"
-  integrity sha512-KVmcv4HYdWRm61/Dbtkr40p3JmC6WsOrnJ/Evs3hoE04viOEYmIS2ugfmN42ymP3zgCV1hzNCQ/SQncAXtu11g==
+"@trpc/react@9.23.2":
+  version "9.23.2"
+  resolved "https://registry.yarnpkg.com/@trpc/react/-/react-9.23.2.tgz#35ac7bf7b1129813b8f741ca71384f405d2734b0"
+  integrity sha512-T30BCRUNPt5BcVqZMSrqhF1qBIUrSOxwLvyp6pr8CXYmnypPLHvdPm3cgxjddeMuVZg8aggU8lhfPkTuAZBpEw==
   dependencies:
     "@babel/runtime" "^7.9.0"
 
