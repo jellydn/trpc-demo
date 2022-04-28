@@ -545,10 +545,10 @@
   resolved "https://registry.yarnpkg.com/@sinclair/typebox/-/typebox-0.23.4.tgz#6ff93fd2585ce44f7481c9ff6af610fbb5de98a4"
   integrity sha512-0/WqSvpVbCBAV1yPeko7eAczKbs78dNVAaX14quVlwOb2wxfKuXCx91h4NrEfkYK9zEnyVSW4JVI/trP3iS+Qg==
 
-"@trpc/client@9.23.1":
-  version "9.23.1"
-  resolved "https://registry.yarnpkg.com/@trpc/client/-/client-9.23.1.tgz#45db781a9efd95c02b9c5121725bd146b6ba9eb0"
-  integrity sha512-Whnn2dH2h1nJVwBVUkqToAry5iDDMwuYAHdMY6y0eEgk3ngzZ+1wZYTxtNwq6jEJm4GxWFP2ymoYqQ3h1CROZg==
+"@trpc/client@9.23.2":
+  version "9.23.2"
+  resolved "https://registry.yarnpkg.com/@trpc/client/-/client-9.23.2.tgz#db833db0884b5121b355ae70e6f7b36e66e58814"
+  integrity sha512-L4ZajhrrupESQXE565UekQH6SDXoL4zCRTF5+/tZ+Y0YkE1DUdBmwBUwWSFIco/QkkMdzNovjZU1xEEWMc+0rw==
   dependencies:
     "@babel/runtime" "^7.9.0"
 
