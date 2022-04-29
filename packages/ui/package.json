@@ -9,6 +9,6 @@
     "@types/react-dom": "18.0.0",
     "@productsway/tsconfig": "*",
     "@productsway/config": "*",
-    "typescript": "4.6.3"
+    "typescript": "4.6.4"
   }
 }
