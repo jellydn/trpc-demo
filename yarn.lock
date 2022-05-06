@@ -711,10 +711,19 @@
   dependencies:
     "@types/react" "*"
 
-"@types/react@*", "@types/react@18.0.8":
+"@types/react@*":
   version "18.0.8"
   resolved "https://registry.yarnpkg.com/@types/react/-/react-18.0.8.tgz#a051eb380a9fbcaa404550543c58e1cf5ce4ab87"
   integrity sha512-+j2hk9BzCOrrOSJASi5XiOyBbERk9jG5O73Ya4M0env5Ixi6vUNli4qy994AINcEF+1IEHISYFfIT4zwr++LKw==
+  dependencies:
+    "@types/prop-types" "*"
+    "@types/scheduler" "*"
+    csstype "^3.0.2"
+
+"@types/react@18.0.9":
+  version "18.0.9"
+  resolved "https://registry.yarnpkg.com/@types/react/-/react-18.0.9.tgz#d6712a38bd6cd83469603e7359511126f122e878"
+  integrity sha512-9bjbg1hJHUm4De19L1cHiW0Jvx3geel6Qczhjd0qY5VKVE2X5+x77YxAepuCwVh4vrgZJdgEJw48zrhRIeF4Nw==
   dependencies:
     "@types/prop-types" "*"
     "@types/scheduler" "*"
@@ -5259,10 +5268,10 @@ tap-yaml@^1.0.0:
   dependencies:
     yaml "^1.5.0"
 
-tap@16.1.0:
-  version "16.1.0"
-  resolved "https://registry.yarnpkg.com/tap/-/tap-16.1.0.tgz#85e989313afb318e6447dfa74c8aeb01b1770278"
-  integrity sha512-EFERYEEDCLjvsT+B+z/qAVuxh5JPEmtn0aGh1ZT/2BN5nVLm6VbcL9fR/Y2FtsxvHuEC3Q2xLc1n1h7mnWVP9w==
+tap@16.2.0:
+  version "16.2.0"
+  resolved "https://registry.yarnpkg.com/tap/-/tap-16.2.0.tgz#0e47edcf1089e386630dc8d779dc8b20cfc7ee1d"
+  integrity sha512-ikfNLy701p2+sH3R0pAXQ/Aen6ZByaguUY7UsoTLL4AXa2c9gYQL+pI21p13lq54R7/CEoLaViC1sexcWG32ig==
   dependencies:
     "@isaacs/import-jsx" "^4.0.1"
     "@types/react" "^17"
