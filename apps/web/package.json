@@ -18,7 +18,7 @@
     "react": "18.1.0",
     "react-dom": "18.1.0",
     "react-query": "3.39.0",
-    "zod": "3.14.4"
+    "zod": "3.15.1"
   },
   "devDependencies": {
     "@productsway/config": "*",
