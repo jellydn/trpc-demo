@@ -599,10 +599,10 @@
   dependencies:
     "@babel/runtime" "^7.9.0"
 
-"@trpc/next@9.23.3":
-  version "9.23.3"
-  resolved "https://registry.yarnpkg.com/@trpc/next/-/next-9.23.3.tgz#611ef98af3c13f4cf511f86d3fc1d0601cc6b5c0"
-  integrity sha512-t+idkeGEwZcNzv76BunyoHIPtjleFyn7cRFWf66IH5iyy6x5RqhVAR/8G/LSImPocs7By+7RQ9hCoy1VCDiZDg==
+"@trpc/next@9.23.4":
+  version "9.23.4"
+  resolved "https://registry.yarnpkg.com/@trpc/next/-/next-9.23.4.tgz#45c4da34cd99b882aefa0ddc065dd23c5d5467a2"
+  integrity sha512-fPFU/PNkGawiUS56wRx3KsnRh/cvI3RtGYbZKIxLr38oYyHLct/v1uqA+0xJIoyPlcFDLoB6et4MZJuv3/v8Dg==
   dependencies:
     "@babel/runtime" "^7.9.0"
     react-ssr-prepass "^1.5.0"
