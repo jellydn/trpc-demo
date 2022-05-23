@@ -5672,10 +5672,10 @@ yoga-layout-prebuilt@^1.9.6:
   dependencies:
     "@types/yoga-layout" "1.9.2"
 
-zod@3.16.0:
-  version "3.16.0"
-  resolved "https://registry.yarnpkg.com/zod/-/zod-3.16.0.tgz#edfdbf77fcc9a5af13a2630a44bdda5b90e759b7"
-  integrity sha512-szrIkryADbTM+xBt2a1KoS2CJQXec4f9xG78bj5MJeEH/XqmmHpnO+fG3IE115AKBJak+2HrbxLZkc9mhdbDKA==
+zod@3.17.2:
+  version "3.17.2"
+  resolved "https://registry.yarnpkg.com/zod/-/zod-3.17.2.tgz#d20b32146a3b5068f8f71768b4f9a4bfe52cddb0"
+  integrity sha512-L8UPS2J/F3dIA8gsPTvGjd8wSRuwR1Td4AqR2Nw8r8BgcLIbZZ5/tCII7hbTLXTQDhxUnnsFdHwpETGajt5i3A==
 
 zod@^3.14.4:
   version "3.14.4"
