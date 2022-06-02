@@ -617,10 +617,10 @@
   dependencies:
     "@babel/runtime" "^7.9.0"
 
-"@trpc/server@9.23.6":
-  version "9.23.6"
-  resolved "https://registry.yarnpkg.com/@trpc/server/-/server-9.23.6.tgz#ec12dcf2eadc24f6a2ca4213fc4c17791e3f0828"
-  integrity sha512-xdoHjv0Km6kr7fBpu91rN3wURWGazUA7+dRquWywWLUDH3EiERg6n0Lkz/YgxH7n+liu6UkRs1Npjt6oo01+xA==
+"@trpc/server@9.24.0":
+  version "9.24.0"
+  resolved "https://registry.yarnpkg.com/@trpc/server/-/server-9.24.0.tgz#4b02090af8283600a0237457968997d1c7f55aca"
+  integrity sha512-yrWMXl6kTgd3o1zE8zkw10KttY8xeilZRvxlpXhLGeeGaBqfvWdU+ljpBK1eSC5j9uDJrMc1gaNqtA++B8Zoqg==
 
 "@trpc/server@^9.23.2":
   version "9.23.2"
