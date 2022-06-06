@@ -7,6 +7,8 @@
 
 > Monorepo for tRPC Demo Apps
 
+[![tRPC - End-to-end typesafe APIs made easy](https://img.youtube.com/vi/rz1ZGV82i34/0.jpg)](https://www.youtube.com/watch?v=rz1ZGV82i34)
+
 ## Prerequisites
 
 - npm >=7.0.0
