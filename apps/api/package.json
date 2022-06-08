@@ -38,7 +38,7 @@
   },
   "devDependencies": {
     "@types/busboy": "1.5.0",
-    "@types/node": "16.11.38",
+    "@types/node": "16.11.39",
     "@types/tap": "15.0.7",
     "eslint-config-prettier": "8.5.0",
     "eslint-config-xo": "0.41.0",
