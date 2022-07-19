@@ -15,13 +15,14 @@
     "prepare": "husky install"
   },
   "devDependencies": {
-    "@typescript-eslint/eslint-plugin": "5.27.1",
-    "@typescript-eslint/parser": "5.27.1",
+    "@typescript-eslint/eslint-plugin": "5.30.6",
+    "@typescript-eslint/parser": "5.30.6",
+    "cpy-cli": "^4.1.0",
     "cross-env": "7.0.3",
-    "eslint": "8.17.0",
+    "eslint": "8.20.0",
     "husky": "8.0.1",
-    "lint-staged": "13.0.0",
-    "prettier": "2.6.2",
+    "lint-staged": "13.0.3",
+    "prettier": "2.7.1",
     "turbo": "latest"
   },
   "engines": {

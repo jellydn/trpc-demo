@@ -15,7 +15,6 @@ export default function App() {
   );
   return (
     <trpc.Provider client={trpcClient} queryClient={queryClient}>
-      {/* @ts-expect-error Type '{ children: Element; client: QueryClient; }' is not assignable to type 'IntrinsicAttributes & QueryClientProviderProps' */}
       <QueryClientProvider client={queryClient}>
         <Hello />
       </QueryClientProvider>

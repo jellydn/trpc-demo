@@ -6,7 +6,7 @@ import { trpc } from "./utils/trpc";
 export default function Hello() {
   const helloWithParam = trpc.useQuery([
     "hello",
-    { text: "trpc demo with nextjs" },
+    { text: "trpc demo with reactjs" },
   ]);
   const helloWithoutParam = trpc.useQuery(["hello"]);
 
