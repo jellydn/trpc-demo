@@ -15,7 +15,6 @@
     "dev:watch": "tsx watch --clear-screen=false src/server.ts",
     "format": "prettier --write \"src/**/*.ts\" \"test/**/*.ts\"",
     "lint": "eslint \"{src,apps,libs,test}/**/*.ts\" --fix",
-    "prepare": "husky install",
     "start": "tsx src/server.ts",
     "start:prod": "node dist/server.js",
     "test": "cross-env TS_NODE_FILES=true tap --ts test/**/*.test.ts",
