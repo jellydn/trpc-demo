@@ -24,7 +24,7 @@
     "@productsway/config": "*",
     "@productsway/tsconfig": "*",
     "@types/node": "18.7.14",
-    "@types/react": "18.0.18",
+    "@types/react": "18.0.21",
     "next-transpile-modules": "9.0.0",
     "typescript": "4.8.3"
   }

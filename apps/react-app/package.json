@@ -17,7 +17,7 @@
   },
   "devDependencies": {
     "@types/qs": "6.9.7",
-    "@types/react": "18.0.18",
+    "@types/react": "18.0.21",
     "@types/react-dom": "18.0.6",
     "@typescript-eslint/eslint-plugin": "5.36.2",
     "@typescript-eslint/parser": "5.36.2",
