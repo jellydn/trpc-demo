@@ -691,12 +691,11 @@
     readable-stream "^3.4.0"
     send "^0.18.0"
 
-"@fastify/swagger@^7.6.1":
-  version "7.6.1"
-  resolved "https://registry.yarnpkg.com/@fastify/swagger/-/swagger-7.6.1.tgz#5b8a790378cc13c040975e0f300d710a20317132"
-  integrity sha512-fpwblS7aOfnVymdRyKI3Zw/ZNt2u0oGm7KQgQ/itmd4Hlh/LKNNoWg6R/+eLa9H/4JTd34ZRRC3mNKhkVl5Kdw==
+"@fastify/swagger@^8.0.0":
+  version "8.0.0"
+  resolved "https://registry.yarnpkg.com/@fastify/swagger/-/swagger-8.0.0.tgz#c8c60fe0899928df9b9eef3de52fafeaa26c821a"
+  integrity sha512-e+f8U8vwYXV5aXPLvEegGIFitRJi2Peqop10u7Qo5Eoc6jl/ovgK7RU2RA8jyZdCkgX4X8xx5zgaQM85eDoQlg==
   dependencies:
-    "@fastify/static" "^6.0.0"
     fastify-plugin "^4.0.0"
     json-schema-resolver "^2.0.0"
     openapi-types "^12.0.0"
