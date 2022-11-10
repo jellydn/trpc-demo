@@ -1096,10 +1096,10 @@
   resolved "https://registry.yarnpkg.com/@rushstack/eslint-patch/-/eslint-patch-1.1.4.tgz#0c8b74c50f29ee44f423f7416829c0bf8bb5eb27"
   integrity sha512-LwzQKA4vzIct1zNZzBmRKI9QuNpLgTQMEjsQLf3BXuGYb3QPTP4Yjf6mkdX+X1mYttZ808QpOwAzZjv28kq7DA==
 
-"@sinclair/typebox@0.25.5":
-  version "0.25.5"
-  resolved "https://registry.yarnpkg.com/@sinclair/typebox/-/typebox-0.25.5.tgz#8f8d6650efbe318db20616687278f7d2d37f7164"
-  integrity sha512-cjauXt7Has9yaVcQ0c/DEckBTVimsty3ycyzpAJfQM/zTcfC4r6+CF8J/Ax7AHNxAhDA903OSe7Fs5TPFdLiLA==
+"@sinclair/typebox@0.25.7":
+  version "0.25.7"
+  resolved "https://registry.yarnpkg.com/@sinclair/typebox/-/typebox-0.25.7.tgz#91653bc8e7d85c5c7d657a8baceb31b2e1db34b1"
+  integrity sha512-P1akWHXV7H4gl4mxM6ln/4Blk74QRbCW3kmiYkNai3nDpClxF2/rwElyuz/YjBfwgdcOiSiEcrQEtoNrUnUHgQ==
 
 "@swc/helpers@0.4.11":
   version "0.4.11"
@@ -6461,10 +6461,10 @@ tsutils@^3.21.0:
   dependencies:
     tslib "^1.8.1"
 
-tsx@3.11.0:
-  version "3.11.0"
-  resolved "https://registry.yarnpkg.com/tsx/-/tsx-3.11.0.tgz#866dd2de4b4b26d92d3e132b9795db2f65db44d3"
-  integrity sha512-q+q4xxu41+AafVwvAGqtNJ1ekPFd33ZhTMXvgIpHMqv/W89efwDRE9IyjhEAZm5iTHsshKaf1BYWSk789BrNCA==
+tsx@3.12.0:
+  version "3.12.0"
+  resolved "https://registry.yarnpkg.com/tsx/-/tsx-3.12.0.tgz#0df550aa4311da32a382b1f31941fe1b41cfba8a"
+  integrity sha512-Z9drA8U1/jRJRWVTS2rOwdsCfkAShwfYBlE+6BVZsZChDsgYsEZZe44MGNNK6V6wQTTtu1kRNV57MsKRMJfdpg==
   dependencies:
     "@esbuild-kit/cjs-loader" "^2.4.0"
     "@esbuild-kit/core-utils" "^3.0.0"
