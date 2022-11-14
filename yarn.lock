@@ -3071,10 +3071,10 @@ fast-uri@^2.0.0, fast-uri@^2.1.0:
   resolved "https://registry.yarnpkg.com/fast-uri/-/fast-uri-2.1.0.tgz#9279432d6b53675c90116b947ed2bbba582d6fb5"
   integrity sha512-qKRta6N7BWEFVlyonVY/V+BMLgFqktCUV0QjT259ekAIlbVrMaFnFLxJ4s/JPl4tou56S1BzPufI60bLe29fHA==
 
-fastify-cli@5.5.1:
-  version "5.5.1"
-  resolved "https://registry.yarnpkg.com/fastify-cli/-/fastify-cli-5.5.1.tgz#f543074535e296adacb933655027b505109f6b72"
-  integrity sha512-ChxBQmobWZIRMVCAv6gqHosDoqm2rePEVcUSscQDc6s3HkTYMtGNYdeTsf28XKViUQI+Gty2YHItTkFt/X9uog==
+fastify-cli@5.6.0:
+  version "5.6.0"
+  resolved "https://registry.yarnpkg.com/fastify-cli/-/fastify-cli-5.6.0.tgz#7b51b90fb055f9c9fa503091f649b87bc0989ffa"
+  integrity sha512-17S9x8LVKx9kB2PWSh6yf/OXLLJiFm/bHE4vY1eWGSH4kQaeh7Ry3P9jDw5RWPauamlHpoGXlJskdKghPKeChQ==
   dependencies:
     chalk "^4.1.2"
     chokidar "^3.5.2"
