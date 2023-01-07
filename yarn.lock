@@ -1227,10 +1227,10 @@
   resolved "https://registry.yarnpkg.com/@rushstack/eslint-patch/-/eslint-patch-1.2.0.tgz#8be36a1f66f3265389e90b5f9c9962146758f728"
   integrity sha512-sXo/qW2/pAcmT43VoRKOJbDOfV3cYpq3szSVfIThQXNt+E4DfKj361vaAt3c88U5tPUxzEswam7GW48PJqtKAg==
 
-"@sinclair/typebox@0.25.16":
-  version "0.25.16"
-  resolved "https://registry.yarnpkg.com/@sinclair/typebox/-/typebox-0.25.16.tgz#daf07d14d93897d6f7849159d8242808b956b069"
-  integrity sha512-5sclbtYBKQ0W5hY8ovF/cBbQV+FWBZArd738hQpLgWUdlWyuOA0HOuYN178jUJRz0pXuL1+UYR+LCMvoR47osg==
+"@sinclair/typebox@0.25.17":
+  version "0.25.17"
+  resolved "https://registry.yarnpkg.com/@sinclair/typebox/-/typebox-0.25.17.tgz#77661d05d203f027745edaf92d3ab621c426ddc4"
+  integrity sha512-OLQlcfNZn2Qy59LE7Fzt2dLAxvVx3F7GsAGpQPKWq1nsdzPpudaSNjwhrjc1HgtbidSxxJmSe7RNTbedFlSqkg==
 
 "@swc/helpers@0.4.14":
   version "0.4.14"
@@ -5517,7 +5517,12 @@ prelude-ls@^1.2.1:
   resolved "https://registry.yarnpkg.com/prelude-ls/-/prelude-ls-1.2.1.tgz#debc6489d7a6e6b0e7611888cec880337d316396"
   integrity sha512-vkcDPrRZo1QZLbn5RLGPpg/WmIQ65qoWWhcGKf/b5eplkkarX0m9z8ppCat4mlOqUsWpyNuYgO3VRyrYHSzX5g==
 
-prettier@2.8.1, prettier@^2.6.2:
+prettier@2.8.2:
+  version "2.8.2"
+  resolved "https://registry.yarnpkg.com/prettier/-/prettier-2.8.2.tgz#c4ea1b5b454d7c4b59966db2e06ed7eec5dfd160"
+  integrity sha512-BtRV9BcncDyI2tsuS19zzhzoxD8Dh8LiCx7j7tHzrkz8GFXAexeWFdi22mjE1d16dftH2qNaytVxqiRTGlMfpw==
+
+prettier@^2.6.2:
   version "2.8.1"
   resolved "https://registry.yarnpkg.com/prettier/-/prettier-2.8.1.tgz#4e1fd11c34e2421bc1da9aea9bd8127cd0a35efc"
   integrity sha512-lqGoSJBQNJidqCHE80vqZJHWHRFoNYsSpP9AjFhlhi9ODCJA541svILes/+/1GM3VaL/abZi7cpFzOpdR9UPKg==
