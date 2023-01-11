@@ -730,10 +730,10 @@
     ajv-formats "^2.1.1"
     fast-uri "^2.0.0"
 
-"@fastify/autoload@5.7.0":
-  version "5.7.0"
-  resolved "https://registry.yarnpkg.com/@fastify/autoload/-/autoload-5.7.0.tgz#cda41d64ac4a9e05808fa353c55ec2940bd2041b"
-  integrity sha512-RQ3g5zZnvdhq7yQJAPJq+D73lg/ZFZoPriaQ3Ul0BiJKAZhtLZSefll/kxgwEj0/rp705OUwvQMQTLgXBBMdGQ==
+"@fastify/autoload@5.7.1":
+  version "5.7.1"
+  resolved "https://registry.yarnpkg.com/@fastify/autoload/-/autoload-5.7.1.tgz#bd5fd2f496d3ef8c6f41bbab6666eae04bd260e6"
+  integrity sha512-F5c94MYAF0tacVu6X4/1ojO7fzmgrJXsqitDtpqknXgiHZpeFNhYSnNCUHPz6UDRKsfkDohmh0fiPTtOd8clzQ==
   dependencies:
     pkg-up "^3.1.0"
 
@@ -3384,7 +3384,12 @@ fastify-cli@5.7.0:
     semver "^7.3.5"
     yargs-parser "^21.1.1"
 
-fastify-plugin@4.4.0, fastify-plugin@^4.0.0, fastify-plugin@^4.2.0, fastify-plugin@^4.2.1:
+fastify-plugin@4.5.0:
+  version "4.5.0"
+  resolved "https://registry.yarnpkg.com/fastify-plugin/-/fastify-plugin-4.5.0.tgz#8b853923a0bba6ab6921bb8f35b81224e6988d91"
+  integrity sha512-79ak0JxddO0utAXAQ5ccKhvs6vX2MGyHHMMsmZkBANrq3hXc1CHzvNPHOcvTsVMEPl5I+NT+RO4YKMGehOfSIg==
+
+fastify-plugin@^4.0.0, fastify-plugin@^4.2.0, fastify-plugin@^4.2.1:
   version "4.4.0"
   resolved "https://registry.yarnpkg.com/fastify-plugin/-/fastify-plugin-4.4.0.tgz#ce9fab1352390199c3d55569fea43779699b58ae"
   integrity sha512-ovwFQG2qNy3jcCROiWpr94Hs0le+c7N/3t7m9aVwbFhkxcR/esp2xu25dP8e617HpQdmeDv+gFX4zagdUhDByw==
