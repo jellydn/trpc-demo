@@ -836,10 +836,10 @@
     p-limit "^3.1.0"
     readable-stream "^4.0.0"
 
-"@fastify/swagger@8.2.1":
-  version "8.2.1"
-  resolved "https://registry.yarnpkg.com/@fastify/swagger/-/swagger-8.2.1.tgz#a5f744868c25c49bde2469f5412ce0405aac150a"
-  integrity sha512-nYP/3ncrI5YmaGiJf6m+CLdFrdlWSsASHBPqP9uN9/oFFwDJwdUtq0ylmvObxzqWNVt9zT50iT/uvIndVEsvbg==
+"@fastify/swagger@8.3.0":
+  version "8.3.0"
+  resolved "https://registry.yarnpkg.com/@fastify/swagger/-/swagger-8.3.0.tgz#29192a3830db9b8b4a9efb4034f17fabf89700e8"
+  integrity sha512-iJkVXIId7K0ylJfsBXvYSuxUURD1G77+OxwCIJ0MqZnkeYCgiUqjzw6twY87EXd5mRVZujl6CACOIO73+mQOYw==
   dependencies:
     fastify-plugin "^4.0.0"
     json-schema-resolver "^2.0.0"
@@ -6601,10 +6601,10 @@ tap-yaml@^1.0.0, tap-yaml@^1.0.2:
   dependencies:
     yaml "^1.10.2"
 
-tap@16.3.3:
-  version "16.3.3"
-  resolved "https://registry.yarnpkg.com/tap/-/tap-16.3.3.tgz#681719422d29c7b57004758a2cc1c9a30882ae15"
-  integrity sha512-E6Ti4FaH3zUvOtl13GA60n8aodRj44S8Vu5efM84U5NmquJo4+y21+2VM9r9jR5iiEcce5dqvlrrwAhZ6r11xg==
+tap@16.3.4:
+  version "16.3.4"
+  resolved "https://registry.yarnpkg.com/tap/-/tap-16.3.4.tgz#4dc740a9dcbfa2d890fb2b647720f29980289179"
+  integrity sha512-SAexdt2ZF4XBgye6TPucFI2y7VE0qeFXlXucJIV1XDPCs+iJodk0MYacr1zR6Ycltzz7PYg8zrblDXKbAZM2LQ==
   dependencies:
     "@isaacs/import-jsx" "^4.0.1"
     "@types/react" "^17.0.52"
