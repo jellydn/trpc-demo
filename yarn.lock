@@ -4733,14 +4733,14 @@ mercurius-codegen@5.0.2:
     chokidar "^3.5.3"
     mkdirp "^2.1.5"
 
-mercurius-integration-testing@6.0.1:
-  version "6.0.1"
-  resolved "https://registry.yarnpkg.com/mercurius-integration-testing/-/mercurius-integration-testing-6.0.1.tgz#758d4447fff27a0061c7503989693bf40de7a3de"
-  integrity sha512-YBjsR0KtjtnlGIuyOpg40PD57eq9XKSSsyisrsGUAY2Ql4nY6nP8oM3JN2zjk7j8zYlZRnIiZKovsTOddqXZdA==
+mercurius-integration-testing@8.0.0:
+  version "8.0.0"
+  resolved "https://registry.yarnpkg.com/mercurius-integration-testing/-/mercurius-integration-testing-8.0.0.tgz#8dbd1563f9e3f272f3640a948a80ad66c49c1582"
+  integrity sha512-wo/g3ipwZ9g44BvEp+VjoXzaJVviOXXHFKccgVBkURBvZnzCEj/4rAqjH+CuflmYRRvJ0GBRYTIARezJBtviMA==
   dependencies:
-    "@graphql-typed-document-node/core" "^3.1.1"
+    "@graphql-typed-document-node/core" "^3.1.2"
     cookie "^0.5.0"
-    ws "^8.9.0"
+    ws "^8.12.1"
 
 mercurius@12.2.0:
   version "12.2.0"
@@ -7039,7 +7039,7 @@ ws@^7, ws@^7.5.5:
   resolved "https://registry.yarnpkg.com/ws/-/ws-7.5.9.tgz#54fa7db29f4c7cec68b1ddd3a89de099942bb591"
   integrity sha512-F+P9Jil7UiSKSkppIiD94dN07AwvFixvLIj1Og1Rl9GGMuNipJnV9JzjD6XuqmAeiswGvUmNLjr5cFuXwNS77Q==
 
-ws@^8.0.0, ws@^8.2.2, ws@^8.9.0:
+ws@^8.0.0, ws@^8.12.1, ws@^8.2.2:
   version "8.13.0"
   resolved "https://registry.yarnpkg.com/ws/-/ws-8.13.0.tgz#9a9fb92f93cf41512a0735c8f4dd09b8a1211cd0"
   integrity sha512-x9vcZYTrFPC7aSIbj7sRCYo7L/Xb8Iy+pW0ng0wt2vCJv7M9HOMy0UoN3rr+IFC7hb7vXoqS+P9ktyLLLhO+LA==
