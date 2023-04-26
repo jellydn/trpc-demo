@@ -30,7 +30,7 @@
     "@sinclair/typebox": "0.28.6",
     "@trpc/server": "9.27.4",
     "close-with-grace": "1.2.0",
-    "fastify": "4.16.0",
+    "fastify": "4.16.3",
     "fastify-cli": "5.7.1",
     "fastify-plugin": "4.5.0",
     "fastify-tsconfig": "1.0.1",
