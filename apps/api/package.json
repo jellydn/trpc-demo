@@ -37,7 +37,7 @@
     "graphql": "16.6.0",
     "mercurius": "12.2.0",
     "mercurius-codegen": "5.0.2",
-    "mercurius-integration-testing": "8.0.0",
+    "mercurius-integration-testing": "8.1.0",
     "nexus": "1.3.0",
     "zod": "3.21.4",
     "swagger-jsdoc": "6.2.8"
