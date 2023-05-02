@@ -4780,10 +4780,10 @@ mercurius-codegen@5.0.2:
     chokidar "^3.5.3"
     mkdirp "^2.1.5"
 
-mercurius-integration-testing@8.0.0:
-  version "8.0.0"
-  resolved "https://registry.yarnpkg.com/mercurius-integration-testing/-/mercurius-integration-testing-8.0.0.tgz#8dbd1563f9e3f272f3640a948a80ad66c49c1582"
-  integrity sha512-wo/g3ipwZ9g44BvEp+VjoXzaJVviOXXHFKccgVBkURBvZnzCEj/4rAqjH+CuflmYRRvJ0GBRYTIARezJBtviMA==
+mercurius-integration-testing@8.1.0:
+  version "8.1.0"
+  resolved "https://registry.yarnpkg.com/mercurius-integration-testing/-/mercurius-integration-testing-8.1.0.tgz#7e39b734db8d89f48f1886ed73f46ff0502b1d98"
+  integrity sha512-cN3ILAmZgTVPmiF6mru2ap2PJ0LLytbvEjHqlmv9zukGbvN6ezE7L/SO2nWVNC95Ao7wI78GPvXt+rTHjgzlGQ==
   dependencies:
     "@graphql-typed-document-node/core" "^3.1.2"
     cookie "^0.5.0"
@@ -6950,10 +6950,10 @@ vary@^1.1.2:
   resolved "https://registry.yarnpkg.com/vary/-/vary-1.1.2.tgz#2299f02c6ded30d4a5961b0b9f74524a18f634fc"
   integrity sha512-BNGbWLfd0eUPabhkXUVm0j8uuvREyTh5ovRa/dyow/BqAbZJyC+5fU+IzQOzmAKzYqYRAISoRhdQr3eIZ/PXqg==
 
-vite@4.3.3:
-  version "4.3.3"
-  resolved "https://registry.yarnpkg.com/vite/-/vite-4.3.3.tgz#26adb4aa01439fc4546c480ea547674d87289396"
-  integrity sha512-MwFlLBO4udZXd+VBcezo3u8mC77YQk+ik+fbc0GZWGgzfbPP+8Kf0fldhARqvSYmtIWoAJ5BXPClUbMTlqFxrA==
+vite@4.3.4:
+  version "4.3.4"
+  resolved "https://registry.yarnpkg.com/vite/-/vite-4.3.4.tgz#1c518d763d5a700d890c3a19ab59220f06e7a7d5"
+  integrity sha512-f90aqGBoxSFxWph2b39ae2uHAxm5jFBBdnfueNxZAT1FTpM13ccFQExCaKbR2xFW5atowjleRniQ7onjJ22QEg==
   dependencies:
     esbuild "^0.17.5"
     postcss "^8.4.23"
