@@ -5,8 +5,8 @@
   "types": "./index.tsx",
   "license": "MIT",
   "devDependencies": {
-    "@types/react": "18.2.2",
-    "@types/react-dom": "18.2.3",
+    "@types/react": "18.2.6",
+    "@types/react-dom": "18.2.4",
     "@productsway/tsconfig": "*",
     "@productsway/config": "*",
     "typescript": "5.0.4"
