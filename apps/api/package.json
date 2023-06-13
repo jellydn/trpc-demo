@@ -24,7 +24,7 @@
     "@fastify/autoload": "5.7.1",
     "@fastify/cors": "8.3.0",
     "@fastify/helmet": "10.1.1",
-    "@fastify/multipart": "7.6.0",
+    "@fastify/multipart": "7.6.1",
     "@fastify/sensible": "5.2.0",
     "@fastify/swagger": "8.5.1",
     "@sinclair/typebox": "0.28.15",
