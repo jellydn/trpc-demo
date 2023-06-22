@@ -3776,10 +3776,10 @@ graphql-tag@^2.11.0:
   dependencies:
     tslib "^2.1.0"
 
-graphql@16.7.0:
-  version "16.7.0"
-  resolved "https://registry.yarnpkg.com/graphql/-/graphql-16.7.0.tgz#717051b8c183fcf8c3ad0a3668aeb5ffd1e9bc33"
-  integrity sha512-kdNG+ZGNf0E4dezSA2N9cRq8UdOMCcz9Wzh1dDSrCzGCz0nj6p8qlE+utY6iqr9y1sh3MZxUb7K794neZ2oT1w==
+graphql@16.7.1:
+  version "16.7.1"
+  resolved "https://registry.yarnpkg.com/graphql/-/graphql-16.7.1.tgz#11475b74a7bff2aefd4691df52a0eca0abd9b642"
+  integrity sha512-DRYR9tf+UGU0KOsMcKAlXeFfX89UiiIZ0dRU3mR0yJfu6OjZqUcp68NnFLnqQU5RexygFoDy1EW+ccOYcPfmHg==
 
 graphql@^16.0.0:
   version "16.6.0"
@@ -6452,10 +6452,10 @@ tap-yaml@^1.0.0, tap-yaml@^1.0.2:
   dependencies:
     yaml "^1.10.2"
 
-tap@16.3.6:
-  version "16.3.6"
-  resolved "https://registry.yarnpkg.com/tap/-/tap-16.3.6.tgz#9223562a9e060c17dbd10d065f4a759ecf9ba475"
-  integrity sha512-+DF58Y0DuR18NITVuPsfQ5CRZ1KmYobxLeqKq6LOhr1YJu+QMbAkyhgWhaKsV8GMd329h3fa2SZoqTWmGZ+o9w==
+tap@16.3.7:
+  version "16.3.7"
+  resolved "https://registry.yarnpkg.com/tap/-/tap-16.3.7.tgz#1d3561b58dd7af3aed172a2f6fc3ad8252b040ab"
+  integrity sha512-AaovVsfXVKcIf9eD1NxgwIqSDz5LauvybTpS6bjAKVYqz3+iavHC1abwxTkXmswb2n7eq8qKLt8DvY3D6iWcYA==
   dependencies:
     "@isaacs/import-jsx" "^4.0.1"
     "@types/react" "^17.0.52"
