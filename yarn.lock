@@ -2924,18 +2924,24 @@ eslint-config-prettier@8.8.0:
   resolved "https://registry.yarnpkg.com/eslint-config-prettier/-/eslint-config-prettier-8.8.0.tgz#bfda738d412adc917fd7b038857110efe98c9348"
   integrity sha512-wLbQiFre3tdGgpDv67NQKnJuTlcUVYHas3k+DZCc2U2BadthoEY4B7hLPvAxaqdyOGCzuLfii2fqGph10va7oA==
 
-eslint-config-productsway@0.3.0:
-  version "0.3.0"
-  resolved "https://registry.yarnpkg.com/eslint-config-productsway/-/eslint-config-productsway-0.3.0.tgz#3fae69dd87af9f6c6ccc0bf1d9550e1f54c3c0d9"
-  integrity sha512-8bURg4E9vjvHhKeYZB8aR/yD/j1IHDqRf5gzwpybXeLWQ2u6x8+1cwlnnjE3+XCjeNDxaG5m1yBg5B9abJ1/bA==
+eslint-config-productsway@1.1.0:
+  version "1.1.0"
+  resolved "https://registry.yarnpkg.com/eslint-config-productsway/-/eslint-config-productsway-1.1.0.tgz#c7c8d97f1d885521c24d71dd2f58b046ba3b4bf2"
+  integrity sha512-T3b9UWHufPwnt32rMvR5ZA9K0EdBM74sX9bveyrC5TCFnE/jyaFa6UXgBowa7HOw3VPsQ/pTLu04qMsB8elBkg==
   dependencies:
     eslint-config-prettier "8.8.0"
     eslint-config-xo "0.43.1"
+    eslint-config-xo-react "0.27.0"
     eslint-config-xo-typescript "1.0.1"
     eslint-plugin-import "2.27.5"
     eslint-plugin-jsx-a11y "6.7.1"
     eslint-plugin-react "7.33.0"
     eslint-plugin-react-hooks "4.6.0"
+
+eslint-config-xo-react@0.27.0:
+  version "0.27.0"
+  resolved "https://registry.yarnpkg.com/eslint-config-xo-react/-/eslint-config-xo-react-0.27.0.tgz#aeb7593bf3d8fb9fc7fecfcbd7240f0daddb5cb0"
+  integrity sha512-wiV215xQIn71XZyyVfaOXHaFpR1B14IJttwOjMi/eqUK1s+ojJdHr7eHqTLaGUfh6FKgWha1QNwePlIXx7mBUg==
 
 eslint-config-xo-typescript@0.57.0:
   version "0.57.0"
