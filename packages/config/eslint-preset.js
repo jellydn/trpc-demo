@@ -1,5 +1,5 @@
 module.exports = {
-  extends: ["next", "prettier"],
+  extends: ["productsway/react", "plugin:@next/next/recommended"],
   settings: {
     next: {
       rootDir: ["apps/*/", "packages/*/"],
