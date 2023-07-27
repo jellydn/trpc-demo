@@ -1,4 +1,4 @@
-import cors, { FastifyCorsOptions } from "@fastify/cors";
+import cors, { type FastifyCorsOptions } from "@fastify/cors";
 import fp from "fastify-plugin";
 
 /**

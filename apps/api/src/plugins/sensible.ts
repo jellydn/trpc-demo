@@ -1,4 +1,4 @@
-import sensible, { SensibleOptions } from "@fastify/sensible";
+import sensible, { type SensibleOptions } from "@fastify/sensible";
 import fp from "fastify-plugin";
 
 /**

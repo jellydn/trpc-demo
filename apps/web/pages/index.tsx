@@ -8,11 +8,11 @@ export default function Web() {
   ]);
   const helloWithoutParam = trpc.useQuery(["hello"]);
 
-  // show error if fetch issue
-  if (helloWithoutParam.error || helloWithParam.error) {
+  // Show error if fetch issue
+  if (helloWithoutParam.error ?? helloWithParam.error) {
     return (
       <div>
-        {helloWithoutParam.error?.message || helloWithParam.error?.message}
+        {helloWithoutParam.error?.message ?? helloWithParam.error?.message}
       </div>
     );
   }

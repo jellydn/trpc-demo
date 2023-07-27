@@ -6,12 +6,12 @@ import Hello from "./Hello";
 import { trpc } from "./utils/trpc";
 
 export default function App() {
-  const [queryClient] = useState(() => new QueryClient());
-  const [trpcClient] = useState(() =>
+  const [queryClient, setQueryClient] = useState(() => new QueryClient());
+  const [trpcClient, setTrpcClient] = useState(() =>
     trpc.createClient({
       url: "http://localhost:3000/trpc",
       headers: {},
-    })
+    }),
   );
   return (
     <trpc.Provider client={trpcClient} queryClient={queryClient}>

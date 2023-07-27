@@ -10,8 +10,8 @@ export default function Hello() {
   ]);
   const helloWithoutParam = trpc.useQuery(["hello"]);
 
-  // show error if fetch issue
-  if (helloWithoutParam.error || helloWithParam.error) {
+  // Show error if fetch issue
+  if (helloWithoutParam.error ?? helloWithParam.error) {
     return <div>Failed to fetch. Please check your console.</div>;
   }
 
