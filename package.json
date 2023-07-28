@@ -20,7 +20,7 @@
     "eslint-config-productsway": "1.1.0",
     "cpy-cli": "5.0.0",
     "cross-env": "7.0.3",
-    "eslint": "8.45.0",
+    "eslint": "8.46.0",
     "husky": "8.0.3",
     "lint-staged": "13.2.3",
     "prettier": "3.0.0",
