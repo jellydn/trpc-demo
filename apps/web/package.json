@@ -14,7 +14,7 @@
     "@trpc/next": "9.27.4",
     "@trpc/react": "9.27.4",
     "@trpc/server": "9.27.4",
-    "next": "13.4.12",
+    "next": "13.4.13",
     "react": "18.2.0",
     "react-dom": "18.2.0",
     "react-query": "3.39.3",
@@ -24,7 +24,7 @@
     "@productsway/config": "*",
     "@productsway/tsconfig": "*",
     "@types/node": "20.4.8",
-    "@types/react": "18.2.18",
+    "@types/react": "18.2.19",
     "next-transpile-modules": "10.0.1",
     "typescript": "5.1.6"
   }

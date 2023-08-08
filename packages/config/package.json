@@ -7,7 +7,7 @@
     "eslint-preset.js"
   ],
   "dependencies": {
-    "eslint-config-next": "13.4.12",
+    "eslint-config-next": "13.4.13",
     "eslint-config-productsway": "1.1.1"
   }
 }
