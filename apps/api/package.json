@@ -26,7 +26,7 @@
     "@fastify/helmet": "11.0.0",
     "@fastify/multipart": "7.7.3",
     "@fastify/sensible": "5.2.0",
-    "@fastify/swagger": "8.8.0",
+    "@fastify/swagger": "8.9.0",
     "@sinclair/typebox": "0.31.1",
     "@trpc/server": "9.27.4",
     "close-with-grace": "1.2.0",
