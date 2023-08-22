@@ -27,7 +27,7 @@
     "@fastify/multipart": "7.7.3",
     "@fastify/sensible": "5.2.0",
     "@fastify/swagger": "8.9.0",
-    "@sinclair/typebox": "0.31.1",
+    "@sinclair/typebox": "0.31.2",
     "@trpc/server": "9.27.4",
     "close-with-grace": "1.2.0",
     "fastify": "4.21.0",
@@ -44,7 +44,7 @@
   },
   "devDependencies": {
     "@types/busboy": "1.5.0",
-    "@types/node": "20.5.2",
+    "@types/node": "20.5.3",
     "@types/swagger-jsdoc": "6.0.1",
     "@types/tap": "15.0.8",
     "cross-env": "7.0.3",
