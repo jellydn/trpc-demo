@@ -23,7 +23,7 @@
     "eslint": "8.48.0",
     "husky": "8.0.3",
     "lint-staged": "13.3.0",
-    "prettier": "3.0.2",
+    "prettier": "3.0.3",
     "turbo": "latest"
   },
   "engines": {
