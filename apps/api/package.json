@@ -25,7 +25,7 @@
     "@fastify/cors": "8.3.0",
     "@fastify/helmet": "11.1.0",
     "@fastify/multipart": "7.7.3",
-    "@fastify/sensible": "5.2.0",
+    "@fastify/sensible": "5.3.0",
     "@fastify/swagger": "8.10.0",
     "@sinclair/typebox": "0.31.15",
     "@trpc/server": "9.27.4",
