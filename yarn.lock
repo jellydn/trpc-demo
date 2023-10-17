@@ -785,10 +785,10 @@
     http-errors "2.0.0"
     mime "^3.0.0"
 
-"@fastify/sensible@5.3.0":
-  version "5.3.0"
-  resolved "https://registry.yarnpkg.com/@fastify/sensible/-/sensible-5.3.0.tgz#bd82cc20059f84de893c2a2f4b9438812d63705c"
-  integrity sha512-/7n8kMO6G7up05MOohZ7OX3u2pUGdfOU8ai2XzY3TNSguVYUcQfyu+A0On41ijxSKo9Z9US5OMfEy+KITF4RQQ==
+"@fastify/sensible@5.4.0":
+  version "5.4.0"
+  resolved "https://registry.yarnpkg.com/@fastify/sensible/-/sensible-5.4.0.tgz#535c1e6c3b3209db0d51ccdcc80a585d690b48fc"
+  integrity sha512-pncmQyXmHPmhU4FRAjUr4WYAt1v22ZPed3gujyTE8hPNaiTCOjAox7nGYYDY1G9NWCOAfb16CX8dSTajFtnqAw==
   dependencies:
     "@lukeed/ms" "^2.0.1"
     fast-deep-equal "^3.1.1"
@@ -1221,10 +1221,10 @@
   resolved "https://registry.yarnpkg.com/@rushstack/eslint-patch/-/eslint-patch-1.5.1.tgz#5f1b518ec5fa54437c0b7c4a821546c64fed6922"
   integrity sha512-6i/8UoL0P5y4leBIGzvkZdS85RDMG9y1ihZzmTZQ5LdHUYmZ7pKFoj8X0236s3lusPs1Fa5HTQUpwI+UfTcmeA==
 
-"@sinclair/typebox@0.31.17":
-  version "0.31.17"
-  resolved "https://registry.yarnpkg.com/@sinclair/typebox/-/typebox-0.31.17.tgz#f9ceed480957b919b203bb0b3e27bc559d1e8e19"
-  integrity sha512-GVYVHHOGINx+DT2DwjXoCQO0mRpztYKyb3d48tucuqhjhHpQYGp7Xx7dhhQGzILx/beuBrzfITMC7/5X7fw+UA==
+"@sinclair/typebox@0.31.18":
+  version "0.31.18"
+  resolved "https://registry.yarnpkg.com/@sinclair/typebox/-/typebox-0.31.18.tgz#556a3de891d5daa004875f6d86c69754084428a6"
+  integrity sha512-p2JGz+SciGJVl1zokCIK15f7LYDrI2ZsxItcLhkAyx50hEYEj/Qdy7z30qRYiakzdIu8dV4DfBi+e6xEZuugiQ==
 
 "@swc/helpers@0.5.2":
   version "0.5.2"
