@@ -1208,10 +1208,10 @@
   resolved "https://registry.yarnpkg.com/@rushstack/eslint-patch/-/eslint-patch-1.5.1.tgz#5f1b518ec5fa54437c0b7c4a821546c64fed6922"
   integrity sha512-6i/8UoL0P5y4leBIGzvkZdS85RDMG9y1ihZzmTZQ5LdHUYmZ7pKFoj8X0236s3lusPs1Fa5HTQUpwI+UfTcmeA==
 
-"@sinclair/typebox@0.31.18":
-  version "0.31.18"
-  resolved "https://registry.yarnpkg.com/@sinclair/typebox/-/typebox-0.31.18.tgz#556a3de891d5daa004875f6d86c69754084428a6"
-  integrity sha512-p2JGz+SciGJVl1zokCIK15f7LYDrI2ZsxItcLhkAyx50hEYEj/Qdy7z30qRYiakzdIu8dV4DfBi+e6xEZuugiQ==
+"@sinclair/typebox@0.31.19":
+  version "0.31.19"
+  resolved "https://registry.yarnpkg.com/@sinclair/typebox/-/typebox-0.31.19.tgz#99f7b9746546b2b38b9d02e1fbd5d07e558b04c8"
+  integrity sha512-8GznR/3FgDgA20Its5gd+BZqbtE0amjEidsIX4T2stmDFcaAcQviGsBmzlBtJ0E1Gxk8VtHxL4rt4/KSc/UdxQ==
 
 "@swc/helpers@0.5.2":
   version "0.5.2"
@@ -1309,12 +1309,12 @@
   dependencies:
     undici-types "~5.25.1"
 
-"@types/node@20.8.8":
-  version "20.8.8"
-  resolved "https://registry.yarnpkg.com/@types/node/-/node-20.8.8.tgz#adee050b422061ad5255fc38ff71b2bb96ea2a0e"
-  integrity sha512-YRsdVxq6OaLfmR9Hy816IMp33xOBjfyOgUd77ehqg96CFywxAPbDbXvAsuN2KVg2HOT8Eh6uAfU+l4WffwPVrQ==
+"@types/node@20.8.9":
+  version "20.8.9"
+  resolved "https://registry.yarnpkg.com/@types/node/-/node-20.8.9.tgz#646390b4fab269abce59c308fc286dcd818a2b08"
+  integrity sha512-UzykFsT3FhHb1h7yD4CA4YhBHq545JC0YnEz41xkipN88eKQtL6rSgocL5tbAP6Ola9Izm/Aw4Ora8He4x0BHg==
   dependencies:
-    undici-types "~5.25.1"
+    undici-types "~5.26.4"
 
 "@types/prettier@^2.6.1":
   version "2.7.3"
@@ -1338,10 +1338,19 @@
   dependencies:
     "@types/react" "*"
 
-"@types/react@*", "@types/react@18.2.31":
+"@types/react@*":
   version "18.2.31"
   resolved "https://registry.yarnpkg.com/@types/react/-/react-18.2.31.tgz#74ae2630e4aa9af599584157abd3b95d96fb9b40"
   integrity sha512-c2UnPv548q+5DFh03y8lEDeMfDwBn9G3dRwfkrxQMo/dOtRHUUO57k6pHvBIfH/VF4Nh+98mZ5aaSe+2echD5g==
+  dependencies:
+    "@types/prop-types" "*"
+    "@types/scheduler" "*"
+    csstype "^3.0.2"
+
+"@types/react@18.2.32":
+  version "18.2.32"
+  resolved "https://registry.yarnpkg.com/@types/react/-/react-18.2.32.tgz#7ec787730c45ee9a3c0ed150b19e95c31fe4608a"
+  integrity sha512-F0FVIZQ1x5Gxy/VYJb7XcWvCcHR28Sjwt1dXLspdIatfPq1MVACfnBDwKe6ANLxQ64riIJooXClpUR6oxTiepg==
   dependencies:
     "@types/prop-types" "*"
     "@types/scheduler" "*"
@@ -4631,10 +4640,10 @@ mercurius-integration-testing@8.1.1:
     cookie "^0.5.0"
     ws "^8.12.1"
 
-mercurius@13.2.0:
-  version "13.2.0"
-  resolved "https://registry.yarnpkg.com/mercurius/-/mercurius-13.2.0.tgz#810c5b49ac73d89db89215a42f8e8dc08311e4bf"
-  integrity sha512-UbMl3KX+jYy+bSIzaR4+rrurat/PEXVYWsj44OU8M1+dm+NJQfhPANLs4r9qhRU9FF+Pd+6UncGfbwqc8XtI3g==
+mercurius@13.2.1:
+  version "13.2.1"
+  resolved "https://registry.yarnpkg.com/mercurius/-/mercurius-13.2.1.tgz#f743d336ddc196c952238ac7516b1da3e28da20c"
+  integrity sha512-q3p+n72I6g8dznA6u6XW9sIbApQOuc9ZkWCDMz++RAnJU37LP6TmGZx2SErpEhNgbRWOLUbBhVkVkVxwo75x4Q==
   dependencies:
     "@fastify/error" "^3.0.0"
     "@fastify/static" "^6.0.0"
@@ -6616,6 +6625,11 @@ undici-types@~5.25.1:
   version "5.25.3"
   resolved "https://registry.yarnpkg.com/undici-types/-/undici-types-5.25.3.tgz#e044115914c85f0bcbb229f346ab739f064998c3"
   integrity sha512-Ga1jfYwRn7+cP9v8auvEXN1rX3sWqlayd4HP7OKk4mZWylEmu3KzXDUGrQUN6Ol7qo1gPvB2e5gX6udnyEPgdA==
+
+undici-types@~5.26.4:
+  version "5.26.5"
+  resolved "https://registry.yarnpkg.com/undici-types/-/undici-types-5.26.5.tgz#bcd539893d00b56e964fd2657a4866b221a65617"
+  integrity sha512-JlCMO+ehdEIKqlFxk6IfVoAUVmgz7cU7zD/h9XZ0qzeosSHmUJVOzSQvvYSYWXkFXC+IfLKSIffhv0sVZup6pA==
 
 undici@^5.0.0:
   version "5.26.4"
