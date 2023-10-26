@@ -1208,10 +1208,10 @@
   resolved "https://registry.yarnpkg.com/@rushstack/eslint-patch/-/eslint-patch-1.5.1.tgz#5f1b518ec5fa54437c0b7c4a821546c64fed6922"
   integrity sha512-6i/8UoL0P5y4leBIGzvkZdS85RDMG9y1ihZzmTZQ5LdHUYmZ7pKFoj8X0236s3lusPs1Fa5HTQUpwI+UfTcmeA==
 
-"@sinclair/typebox@0.31.19":
-  version "0.31.19"
-  resolved "https://registry.yarnpkg.com/@sinclair/typebox/-/typebox-0.31.19.tgz#99f7b9746546b2b38b9d02e1fbd5d07e558b04c8"
-  integrity sha512-8GznR/3FgDgA20Its5gd+BZqbtE0amjEidsIX4T2stmDFcaAcQviGsBmzlBtJ0E1Gxk8VtHxL4rt4/KSc/UdxQ==
+"@sinclair/typebox@0.31.20":
+  version "0.31.20"
+  resolved "https://registry.yarnpkg.com/@sinclair/typebox/-/typebox-0.31.20.tgz#74e855ba87a795f10c1eb9d791c7316d930d292e"
+  integrity sha512-pqkf2X6fc1yk6c3Rk41cT8NYFKmzngl8TVHy375X7ihlONCsX7/YTReRLyZX7zZhuUUBx9KTZPFFDZo6AIERCw==
 
 "@swc/helpers@0.5.2":
   version "0.5.2"
@@ -1347,10 +1347,10 @@
     "@types/scheduler" "*"
     csstype "^3.0.2"
 
-"@types/react@18.2.32":
-  version "18.2.32"
-  resolved "https://registry.yarnpkg.com/@types/react/-/react-18.2.32.tgz#7ec787730c45ee9a3c0ed150b19e95c31fe4608a"
-  integrity sha512-F0FVIZQ1x5Gxy/VYJb7XcWvCcHR28Sjwt1dXLspdIatfPq1MVACfnBDwKe6ANLxQ64riIJooXClpUR6oxTiepg==
+"@types/react@18.2.33":
+  version "18.2.33"
+  resolved "https://registry.yarnpkg.com/@types/react/-/react-18.2.33.tgz#055356243dc4350a9ee6c6a2c07c5cae12e38877"
+  integrity sha512-v+I7S+hu3PIBoVkKGpSYYpiBT1ijqEzWpzQD62/jm4K74hPpSP7FF9BnKG6+fg2+62weJYkkBWDJlZt5JO/9hg==
   dependencies:
     "@types/prop-types" "*"
     "@types/scheduler" "*"
@@ -4640,10 +4640,10 @@ mercurius-integration-testing@8.1.1:
     cookie "^0.5.0"
     ws "^8.12.1"
 
-mercurius@13.2.1:
-  version "13.2.1"
-  resolved "https://registry.yarnpkg.com/mercurius/-/mercurius-13.2.1.tgz#f743d336ddc196c952238ac7516b1da3e28da20c"
-  integrity sha512-q3p+n72I6g8dznA6u6XW9sIbApQOuc9ZkWCDMz++RAnJU37LP6TmGZx2SErpEhNgbRWOLUbBhVkVkVxwo75x4Q==
+mercurius@13.2.2:
+  version "13.2.2"
+  resolved "https://registry.yarnpkg.com/mercurius/-/mercurius-13.2.2.tgz#edfad3fd05102290e21d864bbc649a8411e0f773"
+  integrity sha512-Bj5hrkJZgFOk4zo4ZcfP3k7P85Gdsxh9gGOLLQxCR+zXzHkia9o6FJuMebJjXhuWXybqFbWon3YmWx3/JaniVA==
   dependencies:
     "@fastify/error" "^3.0.0"
     "@fastify/static" "^6.0.0"
