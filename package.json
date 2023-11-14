@@ -30,7 +30,7 @@
     "npm": ">=7.0.0",
     "node": ">=14.0.0"
   },
-  "packageManager": "yarn@1.22.19",
+  "packageManager": "yarn@1.22.20",
   "lint-staged": {
     "*.{js,ts,tsx,,css,md}": "prettier --write"
   }
