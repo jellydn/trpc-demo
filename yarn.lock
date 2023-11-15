@@ -1208,10 +1208,10 @@
   resolved "https://registry.yarnpkg.com/@rushstack/eslint-patch/-/eslint-patch-1.5.1.tgz#5f1b518ec5fa54437c0b7c4a821546c64fed6922"
   integrity sha512-6i/8UoL0P5y4leBIGzvkZdS85RDMG9y1ihZzmTZQ5LdHUYmZ7pKFoj8X0236s3lusPs1Fa5HTQUpwI+UfTcmeA==
 
-"@sinclair/typebox@0.31.23":
-  version "0.31.23"
-  resolved "https://registry.yarnpkg.com/@sinclair/typebox/-/typebox-0.31.23.tgz#5ae0235824e63b595952dceb001b813349688b1f"
-  integrity sha512-ZzrzE8yCrWWU4mcBstBgdlBMjB8My3ESY9nZ/v996GptIJb4+MU1p7s1Qxrc2xvZeOiDDnAheLLmdHjPgZV79g==
+"@sinclair/typebox@0.31.24":
+  version "0.31.24"
+  resolved "https://registry.yarnpkg.com/@sinclair/typebox/-/typebox-0.31.24.tgz#3b718fbb4240953e83faa49be43b43ec9506adba"
+  integrity sha512-3zmHQ+4ta05eLGjm/gq+hkFWS4rfr3/zUw8331Yg1X1IdqyDnt5FvoRx5LkK/YdvvJuO04x+E+Y/09Kde588Ng==
 
 "@swc/helpers@0.5.2":
   version "0.5.2"
