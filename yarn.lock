@@ -1515,20 +1515,15 @@
   dependencies:
     tslib "^2.4.0"
 
-"@trpc/client@9.27.4":
-  version "9.27.4"
-  resolved "https://registry.yarnpkg.com/@trpc/client/-/client-9.27.4.tgz#01942784af5628e615bd6dd6094a16c5f7a7d457"
-  integrity sha512-NyS3J333xy8PJWGTSKO0egvj3x/s4SaSPx7XDWHf/i51W/i5Fla+sNxYpv+4z+SwE2xyJKszN2EZbvKIW2X/wA==
-  dependencies:
-    "@babel/runtime" "^7.9.0"
+"@trpc/client@10.45.2":
+  version "10.45.2"
+  resolved "https://registry.yarnpkg.com/@trpc/client/-/client-10.45.2.tgz#15f9ba81303bf3417083fc6bb742e4e86b49da90"
+  integrity sha512-ykALM5kYWTLn1zYuUOZ2cPWlVfrXhc18HzBDyRhoPYN0jey4iQHEFSEowfnhg1RvYnrAVjNBgHNeSAXjrDbGwg==
 
-"@trpc/next@9.27.4":
-  version "9.27.4"
-  resolved "https://registry.yarnpkg.com/@trpc/next/-/next-9.27.4.tgz#55c0b5997421855a42333c5f4e93463e9c5bf522"
-  integrity sha512-QY7eT37hIjHmtqOSEfx4IvZXOGHozIQ6B0MQ3+olmpMpTrygcYi4mFiurPV8Txh1iLa5mgBoJ1ZepLaSc0qzkg==
-  dependencies:
-    "@babel/runtime" "^7.9.0"
-    react-ssr-prepass "^1.5.0"
+"@trpc/next@10.45.2":
+  version "10.45.2"
+  resolved "https://registry.yarnpkg.com/@trpc/next/-/next-10.45.2.tgz#852ce3bce9fe7114287920abd55c5cedbe5365ac"
+  integrity sha512-RSORmfC+/nXdmRY1pQ0AalsVgSzwNAFbZLYHiTvPM5QQ8wmMEHilseCYMXpu0se/TbPt9zVR6Ka2d7O6zxKkXg==
 
 "@trpc/react@9.27.4":
   version "9.27.4"
@@ -1537,10 +1532,10 @@
   dependencies:
     "@babel/runtime" "^7.9.0"
 
-"@trpc/server@9.27.4":
-  version "9.27.4"
-  resolved "https://registry.yarnpkg.com/@trpc/server/-/server-9.27.4.tgz#6a3d8df1168a46a2b3e6566ba2c48b2aa2f532c1"
-  integrity sha512-yw0omUrxGp8+gEAuieZFeXB4bCqFvmyCDL3GOBv+Q6+cK0m5824ViHZKPgK5DYG1ijN/lbi1hP3UVKywPN7rbQ==
+"@trpc/server@10.45.2":
+  version "10.45.2"
+  resolved "https://registry.yarnpkg.com/@trpc/server/-/server-10.45.2.tgz#5f2778c4810f93b5dc407146334f8da70a0b51fb"
+  integrity sha512-wOrSThNNE4HUnuhJG6PfDRp4L2009KDVxsd+2VYH8ro6o/7/jwYZ8Uu5j+VaW+mOmc8EHerHzGcdbGNQSAUPgg==
 
 "@tsconfig/node10@^1.0.7":
   version "1.0.9"
@@ -6401,11 +6396,6 @@ react-refresh@^0.10.0:
   version "0.10.0"
   resolved "https://registry.yarnpkg.com/react-refresh/-/react-refresh-0.10.0.tgz#2f536c9660c0b9b1d500684d9e52a65e7404f7e3"
   integrity sha512-PgidR3wST3dDYKr6b4pJoqQFpPGNKDSCDx4cZoshjXipw3LzO7mG1My2pwEzz2JVkF+inx3xRpDeQLFQGH/hsQ==
-
-react-ssr-prepass@^1.5.0:
-  version "1.5.0"
-  resolved "https://registry.yarnpkg.com/react-ssr-prepass/-/react-ssr-prepass-1.5.0.tgz#bc4ca7fcb52365e6aea11cc254a3d1bdcbd030c5"
-  integrity sha512-yFNHrlVEReVYKsLI5lF05tZoHveA5pGzjFbFJY/3pOqqjGOmMmqx83N4hIjN2n6E1AOa+eQEUxs3CgRnPmT0RQ==
 
 react@18.3.1:
   version "18.3.1"
