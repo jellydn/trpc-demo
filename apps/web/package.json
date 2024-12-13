@@ -23,7 +23,7 @@
   "devDependencies": {
     "@productsway/config": "*",
     "@productsway/tsconfig": "*",
-    "@types/node": "20.17.10",
+    "@types/node": "22.10.2",
     "@types/react": "18.3.16",
     "next-transpile-modules": "10.0.1",
     "typescript": "5.7.2"
