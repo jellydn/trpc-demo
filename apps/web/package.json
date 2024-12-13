@@ -14,17 +14,17 @@
     "@trpc/next": "9.27.4",
     "@trpc/react": "9.27.4",
     "@trpc/server": "9.27.4",
-    "next": "14.2.18",
+    "next": "14.2.20",
     "react": "18.3.1",
     "react-dom": "18.3.1",
     "react-query": "3.39.3",
-    "zod": "3.23.8"
+    "zod": "3.24.1"
   },
   "devDependencies": {
     "@productsway/config": "*",
     "@productsway/tsconfig": "*",
-    "@types/node": "20.17.7",
-    "@types/react": "18.3.12",
+    "@types/node": "20.17.10",
+    "@types/react": "18.3.16",
     "next-transpile-modules": "10.0.1",
     "typescript": "5.7.2"
   }
