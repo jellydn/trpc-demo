@@ -27,24 +27,24 @@
     "@fastify/multipart": "7.7.3",
     "@fastify/sensible": "5.6.0",
     "@fastify/swagger": "8.15.0",
-    "@sinclair/typebox": "0.34.28",
+    "@sinclair/typebox": "0.34.33",
     "@trpc/server": "9.27.4",
     "close-with-grace": "1.3.0",
-    "fastify": "4.29.0",
+    "fastify": "4.29.1",
     "fastify-cli": "6.3.0",
     "fastify-plugin": "4.5.1",
     "fastify-tsconfig": "2.0.0",
-    "graphql": "16.10.0",
+    "graphql": "16.11.0",
     "mercurius": "13.4.1",
     "mercurius-codegen": "5.0.5",
     "mercurius-integration-testing": "8.2.0",
     "nexus": "1.3.0",
-    "zod": "3.24.2",
+    "zod": "3.24.4",
     "swagger-jsdoc": "6.2.8"
   },
   "devDependencies": {
     "@types/busboy": "1.5.4",
-    "@types/node": "20.17.19",
+    "@types/node": "20.17.46",
     "@types/swagger-jsdoc": "6.0.4",
     "@types/tap": "15.0.12",
     "cross-env": "7.0.3",
@@ -54,8 +54,8 @@
     "tap": "16.3.10",
     "ts-node": "10.9.2",
     "tsup": "8.4.0",
-    "tsx": "4.19.3",
-    "typescript": "5.7.3"
+    "tsx": "4.19.4",
+    "typescript": "5.8.3"
   },
   "tsup": {
     "entry": [
